@@ -1,0 +1,22 @@
+@import url(../../styles/variables.module.css);
+
+.Card{
+    transition: all 0.5s ease;
+    border-radius: 12px;
+    width: 340px;
+    background-color: var(--background-box-color);
+    padding: 12px;
+}
+.Card img{
+    height: 200px;
+    width: 316px;
+    border-radius: 12px;
+}
+.Card h2{
+    font-size: 1rem;
+    text-align: center;
+    max-width: max-content;
+}
+.Card:hover{
+    transform: scale(1.1);
+}
