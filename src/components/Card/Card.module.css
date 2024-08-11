@@ -1,15 +1,20 @@
 @import url(../../styles/variables.module.css);
 
 .Card{
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
     transition: all 0.5s ease;
     border-radius: 12px;
-    width: 340px;
+    width: 300px;
     background-color: var(--background-box-color);
     padding: 12px;
 }
 .Card img{
-    height: 200px;
-    width: 316px;
+    height: 180px;
+    width: calc(100% - 10px);
     border-radius: 12px;
 }
 .Card h2{

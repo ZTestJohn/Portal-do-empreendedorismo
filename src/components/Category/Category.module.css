@@ -1,0 +1,16 @@
+@import url(../../styles/variables.module.css);
+
+.Category {
+  width: 100%;
+}
+.Category h1{
+    margin: 5px;
+    text-align: center;
+}
+.Category div{
+  margin-top: 10px;
+  gap: 5px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

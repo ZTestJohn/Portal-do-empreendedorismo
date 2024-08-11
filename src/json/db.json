@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "titulo": "Como começar um negócio com baixo investimento",
+    "titulo": "Como começar o seu primeiro negócio",
     "imagem_url": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
   },
   {
@@ -82,7 +82,7 @@
   {
     "id": 17,
     "titulo": "O papel das incubadoras e aceleradoras de startups",
-    "imagem_url": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+    "imagem_url": "https://images.pexels.com/photos/3183171/pexels-photo-3183171.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
   },
   {
     "id": 18,
@@ -97,7 +97,7 @@
   {
     "id": 20,
     "titulo": "Como escolher a estrutura jurídica para sua empresa",
-    "imagem_url": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+    "imagem_url": "https://images.pexels.com/photos/3184303/pexels-photo-3184303.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
   },
   {
     "id": 21,
@@ -107,12 +107,12 @@
   {
     "id": 22,
     "titulo": "Como aproveitar as mídias sociais para o seu negócio",
-    "imagem_url": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+    "imagem_url": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
   },
   {
     "id": 23,
     "titulo": "A importância da inovação para o sucesso empresarial",
-    "imagem_url": "https://images.pexels.com/photos/955450/pexels-photo-955450.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+    "imagem_url": "https://images.pexels.com/photos/3184638/pexels-photo-3184638.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
   },
   {
     "id": 24,
@@ -137,7 +137,7 @@
   {
     "id": 28,
     "titulo": "Estratégias para conquistar novos mercados",
-    "imagem_url": "https://images.pexels.com/photos/955449/pexels-photo-955449.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+    "imagem_url": "https://images.pexels.com/photos/3182827/pexels-photo-3182827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
   },
   {
     "id": 29,
@@ -147,7 +147,7 @@
   {
     "id": 30,
     "titulo": "Como criar uma cultura de inovação na sua empresa",
-    "imagem_url": "https://images.pexels.com/photos/3184297/pexels-photo-3184297.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+    "imagem_url": "https://images.pexels.com/photos/3183199/pexels-photo-3183199.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
   },
   {
     "id": 31,
@@ -207,7 +207,7 @@
   {
     "id": 42,
     "titulo": "Dicas para financiar sua startup",
-    "imagem_url": "https://images.pexels.com/photos/955451/pexels-photo-955451.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+    "imagem_url": "https://images.pexels.com/photos/3184294/pexels-photo-3184294.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
   },
   {
     "id": 43,
@@ -217,7 +217,7 @@
   {
     "id": 44,
     "titulo": "Os segredos para construir uma marca forte",
-    "imagem_url": "https://images.pexels.com/photos/955454/pexels-photo-955454.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+    "imagem_url": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
   },
   {
     "id": 45,
@@ -226,13 +226,13 @@
   },
   {
     "id": 46,
-    "titulo": "Estratégias para reduzir custos operacionais",
-    "imagem_url": "https://images.pexels.com/photos/3184636/pexels-photo-3184636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+    "titulo": "Os desafios da liderança em tempos de crise",
+    "imagem_url": "https://images.pexels.com/photos/3184641/pexels-photo-3184641.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
   },
   {
     "id": 47,
     "titulo": "A importância da cultura organizacional",
-    "imagem_url": "https://images.pexels.com/photos/955458/pexels-photo-955458.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+    "imagem_url": "https://images.pexels.com/photos/3183178/pexels-photo-3183178.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
   },
   {
     "id": 48,
@@ -242,11 +242,31 @@
   {
     "id": 49,
     "titulo": "Os desafios de expandir um negócio internacionalmente",
-    "imagem_url": "https://images.pexels.com/photos/955459/pexels-photo-955459.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+    "imagem_url": "https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
   },
   {
     "id": 50,
     "titulo": "Dicas para uma gestão financeira eficiente",
     "imagem_url": "https://images.pexels.com/photos/3183181/pexels-photo-3183181.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+  },
+  {
+    "id": 51,
+    "titulo": "Como começar um negócio com baixo investimento",
+    "imagem_url": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+  },
+  {
+    "id": 52,
+    "titulo": "Como estruturar um plano de negócios",
+    "imagem_url": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+  },
+  {
+    "id": 53,
+    "titulo": "Como começar um negócio com baixo investimento",
+    "imagem_url": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
+  },
+  {
+    "id": 54,
+    "titulo": "Como criar uma rede de contatos",
+    "imagem_url": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
   }
 ]
