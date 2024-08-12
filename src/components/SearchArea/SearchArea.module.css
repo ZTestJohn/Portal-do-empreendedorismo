@@ -37,3 +37,13 @@ input[type="search"]::-webkit-search-cancel-button {
 .SearchArea input[type="search"]::placeholder {
   color: var(--secundary-color);
 }
+
+@media (width < 800px) {
+  h2 {
+    font-size: 18px;
+  }
+  .search{
+    height: max-content;
+    flex-direction: column-reverse;
+  }
+}

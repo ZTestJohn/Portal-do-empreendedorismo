@@ -1,7 +1,20 @@
 @import url(../../styles/variables.module.css);
 
-.slick-prev::before{color: var(--primary-color);}
-.slick-next::before{color: var(--primary-color);}
-.SliderConfig{
-    margin: 30px;
+.slick-prev::before, .slick-next::before{
+    color: var(--primary-color);
+}
+.SliderConfig {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+
+.slider-container {
+  width: 100%;
+}
+
+.slick-slide {
+  display: flex !important;
+  justify-content: center;
 }
