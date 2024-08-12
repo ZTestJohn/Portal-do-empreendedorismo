@@ -6,9 +6,17 @@ import { useState } from "react";
 import styles from "./SearchArea.module.css";
 import ArticlesList from "../ArticlesList";
 
-function filterArticles(articles, searchText) {
-  return articles.filter((article) => article.titulo.includes(searchText));
+function removeAccents(text) {
+  return text.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
+
+function filterArticles(articles, searchText) {
+  const normalizedSearchText = removeAccents(searchText.toLowerCase());
+  return articles.filter((article) =>
+    removeAccents(article.titulo.toLowerCase()).includes(normalizedSearchText)
+  );
+}
+
 function SearchArea({ title, articlesDb }) {
   const [searchText, setSearchText] = useState("");
   const foundArticles = filterArticles(articlesDb, searchText);

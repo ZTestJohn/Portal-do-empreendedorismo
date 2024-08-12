@@ -1,0 +1,7 @@
+@import url(../../styles/variables.module.css);
+
+.slick-prev::before{color: var(--primary-color);}
+.slick-next::before{color: var(--primary-color);}
+.SliderConfig{
+    margin: 30px;
+}

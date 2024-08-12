@@ -8,6 +8,7 @@ import Category from "../../components/Category";
 import SearchArea from "../../components/SearchArea";
 import articles from "../../json/db.json";
 import Card from "../../components/Card";
+import SliderComponent from "../../components/SliderComponent";
 
 function Home() {
   const idMaisAcessados = [1, 50, 51, 15, 21, 22, 11];
@@ -16,16 +17,18 @@ function Home() {
       <Header />
       <Banner img="home.webp" />
       <Container>
-        <Category title="Artigos mais acessados">
-          <Card />
-          {idMaisAcessados.forEach((element) => {
-            articles
+        <h1>Mais Acessados</h1>
+        <SliderComponent>
+          {idMaisAcessados.map((element) => {
+            return articles
               .filter((e) => e.id === element)
               .map(({ id, titulo, imagem_url }) => {
-                return <Card />;
+                return (
+                  <Card key={id} id={id} img={imagem_url} titulo={titulo} />
+                );
               });
           })}
-        </Category>
+        </SliderComponent>
         <SearchArea articlesDb={articles} />
       </Container>
       <Footer />
