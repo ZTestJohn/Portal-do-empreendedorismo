@@ -3,7 +3,7 @@ import styles from "./Card.module.css";
 
 function Card ({ img, titulo, id}){
     return (
-      <Link to={`/Article/${id}`}>
+      <Link to={`/Article/${id}`} rel="noopener noreferrer">
         <div className={styles.Card}>
           <img src={img} alt="Imagem da notícia"></img>
           <h2>{titulo}</h2>

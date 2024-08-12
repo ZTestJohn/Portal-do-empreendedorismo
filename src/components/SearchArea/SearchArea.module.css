@@ -1,0 +1,39 @@
+@import url(../../styles/variables.module.css);
+
+.SearchArea {
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0 14px;
+}
+.searchbox svg {
+  color: var(--primary-color);
+}
+.search,
+.searchbox {
+  display: flex;
+  align-items: center;
+}
+.search {
+  height: 40px;
+  padding: 5px;
+  justify-content: space-between;
+}
+.searchbox input {
+  margin-left: 5px;
+  padding: 5px;
+  height: 40px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  color: var(--secundary-color);
+  background-color: var(--background-box-color);
+}
+.SearchArea input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button {
+  display: none;
+}
+.SearchArea input[type="search"]::placeholder {
+  color: var(--secundary-color);
+}
