@@ -1,24 +1,57 @@
 @import url(../../styles/variables.module.css);
 
-.header{
-    z-index: 1000;
-    position: sticky;
-    top: 0;
-    width: 100%;
-    background-color: var(--primary-color);
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 20px 15px;
-    border-bottom: solid 20px var(--secundary-color);
+.header {
+  z-index: 1000;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: var(--primary-color);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 15px;
+  border-bottom: solid 20px var(--secundary-color);
 }
-.header span{
-    color: var(--background);
-    font-weight: 600;
-    font-size: 1.3em;
+.header span {
+  color: var(--background);
+  font-weight: 600;
+  font-size: 1.3em;
 }
-.header nav a{
-    margin-left: 15px;
-    font-size: 1em;
-    color: white;
+.header nav a {
+  margin-left: 15px;
+  font-size: 1em;
+  color: white;
+}
+.header div,
+button {
+  gap: 5px;
+  display: flex;
+  align-items: center;
+}
+#menuButton {
+  transition: all 0.5s ease-out;
+}
+.header svg {
+  color: var(--background);
+}
+.header svg:hover {
+  cursor: pointer;
+}
+/* ================= MENU ================ */
+.menu {
+  position: absolute;
+  bottom: 0;
+  width: 200px;
+  height: 100vh;
+  transition: all 0.5s ease-out;
+  /* Inicialmente escondido à esquerda da tela */
+  left: -200px;
+}
+
+.menuVisible {
+  left: 0; /* Visível na tela */
+}
+
+.menuHidden {
+  left: -200px; /* Fora da tela */
 }

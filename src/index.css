@@ -4,8 +4,11 @@
   margin: 0;
 }
 
-a{
+a, button, input{
   text-decoration: none;
+  background-color: transparent;
+  border: none;
+  padding: 0;
 }
 
 body {

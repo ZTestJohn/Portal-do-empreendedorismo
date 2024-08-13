@@ -1,0 +1,71 @@
+@import url(../../styles/variables.module.css);
+
+.QuestionTextWithImg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: max-content;
+  gap: 10px;
+  margin: 20px;
+}
+.QuestionTextWithImg h1 {
+  max-width: 65%;
+  font-size: 26px;
+  margin: 10px;
+  text-align: center;
+}
+.QuestionTextWithImg h2 {
+  font-size: 14px;
+  text-align: left;
+}
+article {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.content {
+  width: calc(50% - 80px);
+  height: 100%;
+  border-radius: 12px;
+  padding: 20px;
+  background-color: var(--background-box-color);
+  text-align: justify;
+}
+.imgDiv {
+  height: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: calc(50% - 80px);
+  border-radius: 12px;
+}
+
+@media (width < 840px) {
+  .QuestionTextWithImg h1 {
+    max-width: 90%;
+  }
+  article {
+    gap: 20px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .content {
+    width: calc(100% - 80px);
+    height: 100%;
+    border-radius: 12px;
+    padding: 20px;
+    background-color: var(--background-box-color);
+    text-align: justify;
+  }
+  .imgDiv {
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: calc(100% - 80px);
+    border-radius: 12px;
+  }
+}

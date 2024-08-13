@@ -1,0 +1,20 @@
+@import url(../../styles/variables.module.css);
+
+.QuestionText {
+  margin: 20px;
+}
+.QuestionText h1 {
+  font-size: 26px;
+  margin: 5px;
+  text-align: center;
+}
+.QuestionText h2 {
+  font-size: 14px;
+  text-align: left;
+}
+.QuestionText div {
+  border-radius: 12px;
+  padding: 20px;
+  background-color: var(--background-box-color);
+  text-align: justify;
+}
