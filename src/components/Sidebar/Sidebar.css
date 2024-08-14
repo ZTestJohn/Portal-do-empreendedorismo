@@ -1,0 +1,47 @@
+@import url(../../styles/variables.module.css);
+
+.Sidebar_style {
+  background-color: var(--background-box-color);
+  position: fixed;
+  height: 100%;
+  top: 0;
+  width: 300px;
+  transition: all 0.4s ease;
+  z-index: 1111;
+}
+.Sidebar_false {
+  left: -300px;
+}
+.Sidebar_true {
+  left: 0;
+}
+#spanTitle, .Sidebar_style nav {
+    width: 100%;
+    text-align: center;
+}
+#spanTitle button svg {
+    border-radius: 100%;
+    transition: all 0.2s ease-in;
+    padding: 3px;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    color: var(--primary-color);
+    position: absolute;
+    top: 16px;
+    right: 7px;
+}
+#spanTitle button svg:hover{
+    background-color: var(--hover-selected);
+}
+#spanTitle {
+    background-color: var(--background-dark1);
+    padding: 12px 0;
+}
+.Sidebar_style nav, .Sidebar_style nav ul {
+    height: 100%;
+}
+
+.Sidebar_style nav:first-child {  
+    border-top: 1px dashed var(--primary-color);
+}

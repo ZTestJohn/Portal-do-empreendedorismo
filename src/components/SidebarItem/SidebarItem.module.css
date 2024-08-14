@@ -1,0 +1,15 @@
+@import url(../../styles/variables.module.css);
+
+.SidebarItem {
+    transition: background-color 0.3s ease;
+    padding: 20px 0;
+    border-bottom: 2px dashed var(--primary-color);
+}
+.SidebarItem a {
+    cursor: pointer;
+    color: var(--text-color);
+    font-family: var(--font);
+}
+.SidebarItem:hover {
+    background-color: var(--hover-selected);
+}

@@ -19,10 +19,16 @@ function Home() {
       <Container>
         <QuestionText title="O que é o portal do empreendedorismo?" model={2}>
           <p>
-            O portal do empreendedorismo é um site focado em distribuir artigos
-            e materiais de apoio sobre o propriamente dito, empreendedorismo. O
-            site contém vários artigos sobre como começar, como divulgar e como
-            crescer o seu negócio próprio.
+            O portal do empreendedorismo é uma plataforma abrangente que oferece
+            uma vasta gama de recursos e ferramentas para quem busca iniciar,
+            desenvolver ou expandir um negócio. Com artigos e materiais de apoio
+            atualizados, o site cobre desde os primeiros passos do
+            empreendedorismo, como a elaboração de um plano de negócios e a
+            definição do público-alvo, até estratégias avançadas de marketing
+            digital e gestão financeira. A comunidade do portal é composta por
+            empreendedores de todos os níveis, desde iniciantes até aqueles com
+            negócios já estabelecidos, proporcionando um ambiente colaborativo e
+            rico em conhecimento.
           </p>
           <h2></h2>
         </QuestionText>

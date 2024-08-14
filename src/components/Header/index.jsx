@@ -1,25 +1,20 @@
 import { Link } from "react-router-dom";
 import styles from "./Header.module.css";
+import { useState } from "react";
+import Sidebar from "../Sidebar";
 
 function Header() {
-  let menuState = true;
+  const [sidebar, setSidebar] = useState(false);
   function menuFunction() {
-    let menuButton = document.getElementById("menuButton");
-    menuButton.style.transition = "all 0.5s ease-out";
-    if (menuState) {
-      menuState = false;
-      menuButton.style.transform = "rotateZ(-90deg)";
-    } else {
-      menuState = true;
-      menuButton.style.transform = "rotateZ(0)";
-      return menuState;
-    }
+    setSidebar(!sidebar);
   }
+
   return (
     <>
+      <Sidebar active={sidebar} setActive={setSidebar} />
       <header className={styles.header}>
         <div>
-          <button id="menuButton" onClick={menuFunction}>
+          <button onClick={menuFunction}>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="24"

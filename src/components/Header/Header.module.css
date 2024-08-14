@@ -37,21 +37,3 @@ button {
 .header svg:hover {
   cursor: pointer;
 }
-/* ================= MENU ================ */
-.menu {
-  position: absolute;
-  bottom: 0;
-  width: 200px;
-  height: 100vh;
-  transition: all 0.5s ease-out;
-  /* Inicialmente escondido à esquerda da tela */
-  left: -200px;
-}
-
-.menuVisible {
-  left: 0; /* Visível na tela */
-}
-
-.menuHidden {
-  left: -200px; /* Fora da tela */
-}

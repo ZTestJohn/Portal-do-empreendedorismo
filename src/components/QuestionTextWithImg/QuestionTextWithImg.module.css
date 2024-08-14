@@ -19,7 +19,7 @@
   font-size: 14px;
   text-align: left;
 }
-article {
+QuestionTextWithImg article {
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -45,7 +45,7 @@ article {
   .QuestionTextWithImg h1 {
     max-width: 90%;
   }
-  article {
+  .QuestionTextWithImg article {
     gap: 20px;
     display: flex;
     flex-direction: column-reverse;

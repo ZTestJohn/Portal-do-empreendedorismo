@@ -1,11 +1,28 @@
 .article{
+    justify-content: space-around;
     display: flex;
+    margin: 20px;
 }
 .articleContent{
+    gap: 20px;
     display: flex;
     flex-direction: column;
 }
+.articleContent h1{
+    text-align: left;
+}
+#fisrtTitle {
+    margin-block: 20px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    text-align: left;
+    border-left: 6px solid;
+    border-radius: 5px;
+    padding-left: 12px;
+}
 .UserInfoAndComments{
+    width: calc(24vw - 40px);
+    background-color: var(--background-box-color);
     display: flex;
     flex-direction: column;
 }

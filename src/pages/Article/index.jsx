@@ -16,25 +16,14 @@ function Article() {
     <>
       <Header />
       <Container>
+        <h1 id={styles.fisrtTitle}>{result.titulo}</h1>
         <article className={styles.article}>
           <div className={styles.articleContent}>
-            <h1>{result.titulo}</h1>
             <ArticleStructure>
-              <h1>Olá mundo</h1>
-              <p>
-                lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-                lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-                lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-                lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-                lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-                lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-                lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem{" "}
-              </p>
+              
             </ArticleStructure>
           </div>
-          <div className={styles.UserInfoAndComments}>
-
-          </div>
+          <aside className={styles.UserInfoAndComments}></aside>
         </article>
       </Container>
       <Footer />
