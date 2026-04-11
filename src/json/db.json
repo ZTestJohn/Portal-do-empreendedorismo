@@ -1,272 +1,542 @@
-[
-  {
-    "id": 1,
-    "titulo": "Como começar o seu primeiro negócio",
-    "imagem_url": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 2,
-    "titulo": "Tendências de inovação no setor financeiro em 2024",
-    "imagem_url": "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 3,
-    "titulo": "Estratégias para aumentar a produtividade empresarial",
-    "imagem_url": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 4,
-    "titulo": "O impacto das fintechs no mercado bancário tradicional",
-    "imagem_url": "https://images.pexels.com/photos/4386328/pexels-photo-4386328.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 5,
-    "titulo": "Empreendedorismo feminino: desafios e oportunidades",
-    "imagem_url": "https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 6,
-    "titulo": "Como as startups estão revolucionando o mercado",
-    "imagem_url": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 7,
-    "titulo": "A importância da educação financeira para empreendedores",
-    "imagem_url": "https://images.pexels.com/photos/3184320/pexels-photo-3184320.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 8,
-    "titulo": "Dicas para gerenciar o fluxo de caixa da sua empresa",
-    "imagem_url": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 9,
-    "titulo": "Como atrair investidores para seu negócio",
-    "imagem_url": "https://images.pexels.com/photos/3184298/pexels-photo-3184298.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 10,
-    "titulo": "Os melhores livros sobre empreendedorismo",
-    "imagem_url": "https://images.pexels.com/photos/3759072/pexels-photo-3759072.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 11,
-    "titulo": "A importância do networking para empreendedores",
-    "imagem_url": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 12,
-    "titulo": "Como criar um plano de negócios eficaz",
-    "imagem_url": "https://images.pexels.com/photos/3184288/pexels-photo-3184288.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 13,
-    "titulo": "Dicas para equilibrar vida pessoal e profissional",
-    "imagem_url": "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 14,
-    "titulo": "Os desafios de ser um jovem empreendedor",
-    "imagem_url": "https://images.pexels.com/photos/1560932/pexels-photo-1560932.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 15,
-    "titulo": "A importância do marketing digital para pequenas empresas",
-    "imagem_url": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 16,
-    "titulo": "Como fazer um pitch de sucesso",
-    "imagem_url": "https://images.pexels.com/photos/3183180/pexels-photo-3183180.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 17,
-    "titulo": "O papel das incubadoras e aceleradoras de startups",
-    "imagem_url": "https://images.pexels.com/photos/3183171/pexels-photo-3183171.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 18,
-    "titulo": "Como utilizar o design thinking no seu negócio",
-    "imagem_url": "https://images.pexels.com/photos/3184298/pexels-photo-3184298.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 19,
-    "titulo": "Os benefícios da mentoria para empreendedores",
-    "imagem_url": "https://images.pexels.com/photos/3184289/pexels-photo-3184289.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 20,
-    "titulo": "Como escolher a estrutura jurídica para sua empresa",
-    "imagem_url": "https://images.pexels.com/photos/3184303/pexels-photo-3184303.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 21,
-    "titulo": "Estratégias de marketing para startups",
-    "imagem_url": "https://images.pexels.com/photos/3184639/pexels-photo-3184639.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 22,
-    "titulo": "Como aproveitar as mídias sociais para o seu negócio",
-    "imagem_url": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 23,
-    "titulo": "A importância da inovação para o sucesso empresarial",
-    "imagem_url": "https://images.pexels.com/photos/3184638/pexels-photo-3184638.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 24,
-    "titulo": "Como lidar com a concorrência no mercado",
-    "imagem_url": "https://images.pexels.com/photos/3184286/pexels-photo-3184286.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 25,
-    "titulo": "Dicas para gerir uma equipe de alto desempenho",
-    "imagem_url": "https://images.pexels.com/photos/3184290/pexels-photo-3184290.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 26,
-    "titulo": "Os principais erros cometidos por empreendedores iniciantes",
-    "imagem_url": "https://images.pexels.com/photos/3184640/pexels-photo-3184640.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 27,
-    "titulo": "Como a tecnologia está transformando os negócios",
-    "imagem_url": "https://images.pexels.com/photos/3861966/pexels-photo-3861966.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 28,
-    "titulo": "Estratégias para conquistar novos mercados",
-    "imagem_url": "https://images.pexels.com/photos/3182827/pexels-photo-3182827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 29,
-    "titulo": "Os melhores eventos de empreendedorismo do ano",
-    "imagem_url": "https://images.pexels.com/photos/3184295/pexels-photo-3184295.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 30,
-    "titulo": "Como criar uma cultura de inovação na sua empresa",
-    "imagem_url": "https://images.pexels.com/photos/3183199/pexels-photo-3183199.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 31,
-    "titulo": "Os desafios da gestão empresarial em tempos de crise",
-    "imagem_url": "https://images.pexels.com/photos/3183198/pexels-photo-3183198.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 32,
-    "titulo": "Como melhorar a experiência do cliente",
-    "imagem_url": "https://images.pexels.com/photos/3182833/pexels-photo-3182833.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 33,
-    "titulo": "Dicas para aumentar a retenção de clientes",
-    "imagem_url": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 34,
-    "titulo": "A importância da análise de dados para os negócios",
-    "imagem_url": "https://images.pexels.com/photos/3183187/pexels-photo-3183187.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 35,
-    "titulo": "Como a sustentabilidade pode ser um diferencial competitivo",
-    "imagem_url": "https://images.pexels.com/photos/3184296/pexels-photo-3184296.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 36,
-    "titulo": "Estratégias de crescimento para pequenas empresas",
-    "imagem_url": "https://images.pexels.com/photos/3184293/pexels-photo-3184293.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 37,
-    "titulo": "Como se destacar no mercado competitivo atual",
-    "imagem_url": "https://images.pexels.com/photos/3183195/pexels-photo-3183195.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 38,
-    "titulo": "A importância do planejamento estratégico",
-    "imagem_url": "https://images.pexels.com/photos/3184294/pexels-photo-3184294.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 39,
-    "titulo": "Como adaptar seu negócio às mudanças do mercado",
-    "imagem_url": "https://images.pexels.com/photos/3182828/pexels-photo-3182828.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 40,
-    "titulo": "Os benefícios do trabalho remoto para empresas",
-    "imagem_url": "https://images.pexels.com/photos/3183192/pexels-photo-3183192.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 41,
-    "titulo": "Como a inteligência artificial está mudando os negócios",
-    "imagem_url": "https://images.pexels.com/photos/3182830/pexels-photo-3182830.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 42,
-    "titulo": "Dicas para financiar sua startup",
-    "imagem_url": "https://images.pexels.com/photos/3184294/pexels-photo-3184294.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 43,
-    "titulo": "Como montar um time de sucesso",
-    "imagem_url": "https://images.pexels.com/photos/3183189/pexels-photo-3183189.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 44,
-    "titulo": "Os segredos para construir uma marca forte",
-    "imagem_url": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 45,
-    "titulo": "Como definir metas empresariais eficazes",
-    "imagem_url": "https://images.pexels.com/photos/3183186/pexels-photo-3183186.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 46,
-    "titulo": "Os desafios da liderança em tempos de crise",
-    "imagem_url": "https://images.pexels.com/photos/3184641/pexels-photo-3184641.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 47,
-    "titulo": "A importância da cultura organizacional",
-    "imagem_url": "https://images.pexels.com/photos/3183178/pexels-photo-3183178.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 48,
-    "titulo": "Como usar o feedback para melhorar sua empresa",
-    "imagem_url": "https://images.pexels.com/photos/3184637/pexels-photo-3184637.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 49,
-    "titulo": "Os desafios de expandir um negócio internacionalmente",
-    "imagem_url": "https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 50,
-    "titulo": "Dicas para uma gestão financeira eficiente",
-    "imagem_url": "https://images.pexels.com/photos/3183181/pexels-photo-3183181.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 51,
-    "titulo": "Como começar um negócio com baixo investimento",
-    "imagem_url": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 52,
-    "titulo": "Como estruturar um plano de negócios",
-    "imagem_url": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 53,
-    "titulo": "Como começar um negócio com baixo investimento",
-    "imagem_url": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  },
-  {
-    "id": 54,
-    "titulo": "Como criar uma rede de contatos",
-    "imagem_url": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400"
-  }
+﻿[
+    {
+        "id":  1,
+        "titulo":  "Como comeÃ§ar o seu primeiro negÃ³cio",
+        "resumo":  "Guia prático sobre como comeã§ar o seu primeiro negã³cio, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Planejamento",
+        "dataPublicacao":  "2026-01-03",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  2,
+        "titulo":  "TendÃªncias de inovaÃ§Ã£o no setor financeiro em 2024",
+        "resumo":  "Guia prático sobre tendãªncias de inovaã§ã£o no setor financeiro em 2024, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Fintech",
+        "dataPublicacao":  "2026-01-05",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  3,
+        "titulo":  "EstratÃ©gias para aumentar a produtividade empresarial",
+        "resumo":  "Guia prático sobre estratã©gias para aumentar a produtividade empresarial, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Gestao",
+        "dataPublicacao":  "2026-01-07",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  4,
+        "titulo":  "O impacto das fintechs no mercado bancÃ¡rio tradicional",
+        "resumo":  "Guia prático sobre o impacto das fintechs no mercado bancã¡rio tradicional, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Empreendedorismo",
+        "dataPublicacao":  "2026-01-09",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/4386328/pexels-photo-4386328.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  5,
+        "titulo":  "Empreendedorismo feminino: desafios e oportunidades",
+        "resumo":  "Guia prático sobre empreendedorismo feminino: desafios e oportunidades, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Startups",
+        "dataPublicacao":  "2026-01-11",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  6,
+        "titulo":  "Como as startups estÃ£o revolucionando o mercado",
+        "resumo":  "Guia prático sobre como as startups estã£o revolucionando o mercado, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Financas",
+        "dataPublicacao":  "2026-01-13",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  7,
+        "titulo":  "A importÃ¢ncia da educaÃ§Ã£o financeira para empreendedores",
+        "resumo":  "Guia prático sobre a importã¢ncia da educaã§ã£o financeira para empreendedores, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Investimentos",
+        "dataPublicacao":  "2026-01-15",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184320/pexels-photo-3184320.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  8,
+        "titulo":  "Dicas para gerenciar o fluxo de caixa da sua empresa",
+        "resumo":  "Guia prático sobre dicas para gerenciar o fluxo de caixa da sua empresa, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Marketing",
+        "dataPublicacao":  "2026-01-17",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  9,
+        "titulo":  "Como atrair investidores para seu negÃ³cio",
+        "resumo":  "Guia prático sobre como atrair investidores para seu negã³cio, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Inovacao",
+        "dataPublicacao":  "2026-01-19",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184298/pexels-photo-3184298.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  10,
+        "titulo":  "Os melhores livros sobre empreendedorismo",
+        "resumo":  "Guia prático sobre os melhores livros sobre empreendedorismo, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Estrategia",
+        "dataPublicacao":  "2026-01-21",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3759072/pexels-photo-3759072.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  11,
+        "titulo":  "A importÃ¢ncia do networking para empreendedores",
+        "resumo":  "Guia prático sobre a importã¢ncia do networking para empreendedores, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Lideranca",
+        "dataPublicacao":  "2026-01-23",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  12,
+        "titulo":  "Como criar um plano de negÃ³cios eficaz",
+        "resumo":  "Guia prático sobre como criar um plano de negã³cios eficaz, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Cliente",
+        "dataPublicacao":  "2026-01-25",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184288/pexels-photo-3184288.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  13,
+        "titulo":  "Dicas para equilibrar vida pessoal e profissional",
+        "resumo":  "Guia prático sobre dicas para equilibrar vida pessoal e profissional, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Dados",
+        "dataPublicacao":  "2026-01-27",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  14,
+        "titulo":  "Os desafios de ser um jovem empreendedor",
+        "resumo":  "Guia prático sobre os desafios de ser um jovem empreendedor, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Sustentabilidade",
+        "dataPublicacao":  "2026-01-29",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/1560932/pexels-photo-1560932.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  15,
+        "titulo":  "A importÃ¢ncia do marketing digital para pequenas empresas",
+        "resumo":  "Guia prático sobre a importã¢ncia do marketing digital para pequenas empresas, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Tecnologia",
+        "dataPublicacao":  "2026-01-31",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  16,
+        "titulo":  "Como fazer um pitch de sucesso",
+        "resumo":  "Guia prático sobre como fazer um pitch de sucesso, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Networking",
+        "dataPublicacao":  "2026-02-02",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3183180/pexels-photo-3183180.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  17,
+        "titulo":  "O papel das incubadoras e aceleradoras de startups",
+        "resumo":  "Guia prático sobre o papel das incubadoras e aceleradoras de startups, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Cultura",
+        "dataPublicacao":  "2026-02-04",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/3183171/pexels-photo-3183171.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  18,
+        "titulo":  "Como utilizar o design thinking no seu negÃ³cio",
+        "resumo":  "Guia prático sobre como utilizar o design thinking no seu negã³cio, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Pessoas",
+        "dataPublicacao":  "2026-02-06",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184298/pexels-photo-3184298.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  19,
+        "titulo":  "Os benefÃ­cios da mentoria para empreendedores",
+        "resumo":  "Guia prático sobre os benefã­cios da mentoria para empreendedores, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Marca",
+        "dataPublicacao":  "2026-02-08",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184289/pexels-photo-3184289.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  20,
+        "titulo":  "Como escolher a estrutura jurÃ­dica para sua empresa",
+        "resumo":  "Guia prático sobre como escolher a estrutura jurã­dica para sua empresa, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Comunicacao",
+        "dataPublicacao":  "2026-02-10",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184303/pexels-photo-3184303.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  21,
+        "titulo":  "EstratÃ©gias de marketing para startups",
+        "resumo":  "Guia prático sobre estratã©gias de marketing para startups, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Juridico",
+        "dataPublicacao":  "2026-02-12",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184639/pexels-photo-3184639.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  22,
+        "titulo":  "Como aproveitar as mÃ­dias sociais para o seu negÃ³cio",
+        "resumo":  "Guia prático sobre como aproveitar as mã­dias sociais para o seu negã³cio, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Crescimento",
+        "dataPublicacao":  "2026-02-14",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  23,
+        "titulo":  "A importÃ¢ncia da inovaÃ§Ã£o para o sucesso empresarial",
+        "resumo":  "Guia prático sobre a importã¢ncia da inovaã§ã£o para o sucesso empresarial, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Planejamento",
+        "dataPublicacao":  "2026-02-16",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184638/pexels-photo-3184638.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  24,
+        "titulo":  "Como lidar com a concorrÃªncia no mercado",
+        "resumo":  "Guia prático sobre como lidar com a concorrãªncia no mercado, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Fintech",
+        "dataPublicacao":  "2026-02-18",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184286/pexels-photo-3184286.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  25,
+        "titulo":  "Dicas para gerir uma equipe de alto desempenho",
+        "resumo":  "Guia prático sobre dicas para gerir uma equipe de alto desempenho, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Gestao",
+        "dataPublicacao":  "2026-02-20",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184290/pexels-photo-3184290.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  26,
+        "titulo":  "Os principais erros cometidos por empreendedores iniciantes",
+        "resumo":  "Guia prático sobre os principais erros cometidos por empreendedores iniciantes, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Empreendedorismo",
+        "dataPublicacao":  "2026-02-22",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184640/pexels-photo-3184640.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  27,
+        "titulo":  "Como a tecnologia estÃ¡ transformando os negÃ³cios",
+        "resumo":  "Guia prático sobre como a tecnologia estã¡ transformando os negã³cios, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Startups",
+        "dataPublicacao":  "2026-02-24",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3861966/pexels-photo-3861966.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  28,
+        "titulo":  "EstratÃ©gias para conquistar novos mercados",
+        "resumo":  "Guia prático sobre estratã©gias para conquistar novos mercados, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Financas",
+        "dataPublicacao":  "2026-02-26",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3182827/pexels-photo-3182827.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  29,
+        "titulo":  "Os melhores eventos de empreendedorismo do ano",
+        "resumo":  "Guia prático sobre os melhores eventos de empreendedorismo do ano, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Investimentos",
+        "dataPublicacao":  "2026-02-28",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184295/pexels-photo-3184295.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  30,
+        "titulo":  "Como criar uma cultura de inovaÃ§Ã£o na sua empresa",
+        "resumo":  "Guia prático sobre como criar uma cultura de inovaã§ã£o na sua empresa, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Marketing",
+        "dataPublicacao":  "2026-03-02",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3183199/pexels-photo-3183199.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  31,
+        "titulo":  "Os desafios da gestÃ£o empresarial em tempos de crise",
+        "resumo":  "Guia prático sobre os desafios da gestã£o empresarial em tempos de crise, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Inovacao",
+        "dataPublicacao":  "2026-03-04",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3183198/pexels-photo-3183198.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  32,
+        "titulo":  "Como melhorar a experiÃªncia do cliente",
+        "resumo":  "Guia prático sobre como melhorar a experiãªncia do cliente, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Estrategia",
+        "dataPublicacao":  "2026-03-06",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/3182833/pexels-photo-3182833.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  33,
+        "titulo":  "Dicas para aumentar a retenÃ§Ã£o de clientes",
+        "resumo":  "Guia prático sobre dicas para aumentar a retenã§ã£o de clientes, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Lideranca",
+        "dataPublicacao":  "2026-03-08",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  34,
+        "titulo":  "A importÃ¢ncia da anÃ¡lise de dados para os negÃ³cios",
+        "resumo":  "Guia prático sobre a importã¢ncia da anã¡lise de dados para os negã³cios, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Cliente",
+        "dataPublicacao":  "2026-03-10",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3183187/pexels-photo-3183187.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  35,
+        "titulo":  "Como a sustentabilidade pode ser um diferencial competitivo",
+        "resumo":  "Guia prático sobre como a sustentabilidade pode ser um diferencial competitivo, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Dados",
+        "dataPublicacao":  "2026-03-12",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184296/pexels-photo-3184296.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  36,
+        "titulo":  "EstratÃ©gias de crescimento para pequenas empresas",
+        "resumo":  "Guia prático sobre estratã©gias de crescimento para pequenas empresas, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Sustentabilidade",
+        "dataPublicacao":  "2026-03-14",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184293/pexels-photo-3184293.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  37,
+        "titulo":  "Como se destacar no mercado competitivo atual",
+        "resumo":  "Guia prático sobre como se destacar no mercado competitivo atual, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Tecnologia",
+        "dataPublicacao":  "2026-03-16",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3183195/pexels-photo-3183195.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  38,
+        "titulo":  "A importÃ¢ncia do planejamento estratÃ©gico",
+        "resumo":  "Guia prático sobre a importã¢ncia do planejamento estratã©gico, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Networking",
+        "dataPublicacao":  "2026-03-18",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184294/pexels-photo-3184294.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  39,
+        "titulo":  "Como adaptar seu negÃ³cio Ã s mudanÃ§as do mercado",
+        "resumo":  "Guia prático sobre como adaptar seu negã³cio ã s mudanã§as do mercado, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Cultura",
+        "dataPublicacao":  "2026-03-20",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3182828/pexels-photo-3182828.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  40,
+        "titulo":  "Os benefÃ­cios do trabalho remoto para empresas",
+        "resumo":  "Guia prático sobre os benefã­cios do trabalho remoto para empresas, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Pessoas",
+        "dataPublicacao":  "2026-03-22",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3183192/pexels-photo-3183192.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  41,
+        "titulo":  "Como a inteligÃªncia artificial estÃ¡ mudando os negÃ³cios",
+        "resumo":  "Guia prático sobre como a inteligãªncia artificial estã¡ mudando os negã³cios, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Marca",
+        "dataPublicacao":  "2026-03-24",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/3182830/pexels-photo-3182830.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  42,
+        "titulo":  "Dicas para financiar sua startup",
+        "resumo":  "Guia prático sobre dicas para financiar sua startup, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Comunicacao",
+        "dataPublicacao":  "2026-03-26",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184294/pexels-photo-3184294.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  43,
+        "titulo":  "Como montar um time de sucesso",
+        "resumo":  "Guia prático sobre como montar um time de sucesso, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Juridico",
+        "dataPublicacao":  "2026-03-28",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3183189/pexels-photo-3183189.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  44,
+        "titulo":  "Os segredos para construir uma marca forte",
+        "resumo":  "Guia prático sobre os segredos para construir uma marca forte, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Crescimento",
+        "dataPublicacao":  "2026-03-30",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  45,
+        "titulo":  "Como definir metas empresariais eficazes",
+        "resumo":  "Guia prático sobre como definir metas empresariais eficazes, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Planejamento",
+        "dataPublicacao":  "2026-04-01",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3183186/pexels-photo-3183186.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  46,
+        "titulo":  "Os desafios da lideranÃ§a em tempos de crise",
+        "resumo":  "Guia prático sobre os desafios da lideranã§a em tempos de crise, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Fintech",
+        "dataPublicacao":  "2026-04-03",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184641/pexels-photo-3184641.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  47,
+        "titulo":  "A importÃ¢ncia da cultura organizacional",
+        "resumo":  "Guia prático sobre a importã¢ncia da cultura organizacional, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Gestao",
+        "dataPublicacao":  "2026-04-05",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/3183178/pexels-photo-3183178.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  48,
+        "titulo":  "Como usar o feedback para melhorar sua empresa",
+        "resumo":  "Guia prático sobre como usar o feedback para melhorar sua empresa, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Empreendedorismo",
+        "dataPublicacao":  "2026-04-07",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184637/pexels-photo-3184637.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  49,
+        "titulo":  "Os desafios de expandir um negÃ³cio internacionalmente",
+        "resumo":  "Guia prático sobre os desafios de expandir um negã³cio internacionalmente, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Startups",
+        "dataPublicacao":  "2026-04-09",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  50,
+        "titulo":  "Dicas para uma gestÃ£o financeira eficiente",
+        "resumo":  "Guia prático sobre dicas para uma gestã£o financeira eficiente, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Financas",
+        "dataPublicacao":  "2026-04-11",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/3183181/pexels-photo-3183181.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  51,
+        "titulo":  "Como comeÃ§ar um negÃ³cio com baixo investimento",
+        "resumo":  "Guia prático sobre como comeã§ar um negã³cio com baixo investimento, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Investimentos",
+        "dataPublicacao":  "2026-04-13",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  52,
+        "titulo":  "Como estruturar um plano de negÃ³cios",
+        "resumo":  "Guia prático sobre como estruturar um plano de negã³cios, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Equipe Portal",
+        "categoria":  "Marketing",
+        "dataPublicacao":  "2026-04-15",
+        "tempoLeitura":  "6 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  53,
+        "titulo":  "Como comeÃ§ar um negÃ³cio com baixo investimento",
+        "resumo":  "Guia prático sobre como comeã§ar um negã³cio com baixo investimento, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Redacao Portal",
+        "categoria":  "Inovacao",
+        "dataPublicacao":  "2026-04-17",
+        "tempoLeitura":  "7 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    },
+    {
+        "id":  54,
+        "titulo":  "Como criar uma rede de contatos",
+        "resumo":  "Guia prático sobre como criar uma rede de contatos, com estratégias aplicáveis para empreendedores.",
+        "autor":  "Time Editorial",
+        "categoria":  "Estrategia",
+        "dataPublicacao":  "2026-04-19",
+        "tempoLeitura":  "5 min",
+        "imagem_url":  "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress\u0026cs=tinysrgb\u0026dpr=1\u0026w=400"
+    }
 ]

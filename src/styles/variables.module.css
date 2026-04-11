@@ -1,10 +1,21 @@
-:root{
-    --background: #F7EAD9;
-    --primary-color: #88b499;
-    --secundary-color: #619885;
-    --background-box-color: #eef3f0;
-    --text-color: #619885;
-    --font: "Poppins", sans-serif;
-    --background-dark1: #e1ece6;
-    --hover-selected: #e0e6e2;
+:root {
+  --background: #f7ead9;
+  --primary-color: #88b499;
+  --secundary-color: #619885;
+  --background-box-color: #eef3f0;
+  --text-color: #619885;
+  --text-dark: #0f172a;
+  --text-body: #1f2937;
+  --white: #ffffff;
+  --font: "Poppins", sans-serif;
+  --background-dark1: #e1ece6;
+  --hover-selected: #e0e6e2;
+  --banner-blue-start: #0f4ea1;
+  --banner-blue-end: #0a82b3;
+  --banner-cyan-start: #026a6f;
+  --banner-cyan-end: #12b4b9;
+  --banner-royal-start: #113b8f;
+  --banner-royal-end: #125fcb;
+  --shadow-strong-color: rgba(15, 23, 42, 0.12);
+  --shadow-soft-color: rgba(15, 23, 42, 0.08);
 }

@@ -1,2 +1,12 @@
 @import url(../../styles/variables.module.css);
 
+.ArticleStructure {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+}
+
+.comments {
+  display: none;
+}

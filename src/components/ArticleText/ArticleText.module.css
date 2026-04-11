@@ -1,16 +1,21 @@
 @import url(../../styles/variables.module.css);
 
-.ArticleText h1, h2{
-    font-family: var(--font);
-    font-weight: 500;
-    color: var(--text-color);
+.ArticleText h1,
+.ArticleText h2 {
+  font-family: var(--font);
+  font-weight: 700;
+  color: var(--text-dark);
 }
 .ArticleText {
-    background-color: var(--background-box-color);
-    padding: 20px;
-    width: calc(74vw - 40px);
-    border-radius: 12px;
+  background-color: var(--white);
+  padding: clamp(18px, 2.2vw, 30px);
+  width: 100%;
+  border-radius: 16px;
+  box-shadow: 0 10px 28px var(--shadow-soft-color);
+  text-align: left;
 }
 .ArticleText p {
-    color: var(--primary-color);
+  color: var(--text-body);
+  line-height: 1.7;
+  font-size: clamp(1rem, 1.02vw, 1.1rem);
 }

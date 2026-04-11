@@ -1,5 +1,3 @@
-/* eslint-disable no-unused-vars */
-import styles from "./Home.module.css";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 import Banner from "../../components/Banner";
@@ -36,7 +34,7 @@ function Home() {
           Mais Acessados{" "}
           <span>
             <img
-              src="https://th.bing.com/th/id/R.0c808507f8f37144a93fb5091ca2927e?rik=dZoyRehIILj6sw&pid=ImgRaw&r=0"
+              src="./gifs/fire.gif"
               alt="Emoji de fogo animado"
               style={{ width: "22px" }}
             />
